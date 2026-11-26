@@ -1,0 +1,6 @@
+{
+  "name": "AxiomLab",
+  "description": "Multi-modal AI and symbolic mathematics solver with camera equation OCR, scientific math keyboard, step-by-step LaTeX solutions, and interactive 2D/3D graphing.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
